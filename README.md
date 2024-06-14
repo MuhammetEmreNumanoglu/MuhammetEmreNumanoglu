@@ -15,3 +15,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammetemrenumanoglu&show_icons=true&locale=en" alt="muhammetemrenumanoglu" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammetemrenumanoglu&" alt="muhammetemrenumanoglu" /></p>
+
+![snake gif](https://github.com/MuhammetEmreNumanoglu/MuhammetEmreNumanoglu/blob/output/github-contribution-grid-snake.gif)
