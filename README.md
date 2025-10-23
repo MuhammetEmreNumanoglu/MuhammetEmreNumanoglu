@@ -1,5 +1,5 @@
 <h1 align="center">Hi There 👋, I'm Muhammet Emre Numanoğlu</h1>
-<h3 align="center">🥅 2024 goals : non-stop learning</h3>
+<h3 align="center">🥅 2025 goals : non-stop learning</h3>
 
 - 📫 How to reach me **muhammedemrenumanoglu155@gmail.com**
 
