@@ -1,13 +1,73 @@
-<h1 align="center">Hi There 👋, I'm Muhammet Emre Numanoğlu</h1>
-<h3 align="center">🥅 2025 goals : non-stop learning</h3>
+<h1 align="center">Hi 👋, I'm Muhammet Emre Numanoğlu</h1>
+<h3 align="center">Software Engineering Student | Non-stop Learning</h3>
 
-- 📫 How to reach me **muhammedemrenumanoglu155@gmail.com**
+<p align="center">
+  🌐 <a href="https://emrenumanoglu.com" target="_blank">emrenumanoglu.com</a> •
+  📫 <strong>muhammedemrenumanoglu155@gmail.com</strong>
+</p>
 
+---
 
+<h2 align="center">🧠 About Me</h2>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p>
+<p align="center">
+I am a 4th year Software Engineering student who enjoys learning new technologies,  
+building projects, and improving skills step by step.  
+Currently focused on <strong>Web Development</strong>, <strong>Backend</strong>, and <strong>Databases</strong>.
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammetemrenumanoglu&show_icons=true&locale=en" alt="muhammetemrenumanoglu" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammetemrenumanoglu&" alt="muhammetemrenumanoglu" /></p>
+<h2 align="center">🛠️ Tech Stack</h2>
+
+<h3>Programming Languages</h3>
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="45"/>
+</p>
+
+<h3>Web Technologies</h3>
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45"/>
+</p>
+
+<h3>Framework</h3>
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="45"/>
+</p>
+
+<h3>Database & Cache</h3>
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="45"/>
+</p>
+
+---
+
+<h2 align="center">📊 GitHub Stats</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=muhammetemrenumanoglu&show_icons=true&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammetemrenumanoglu&theme=tokyonight"/>
+</p>
+
+---
+
+<h2 align="center">🎮 GitHub Contribution Game</h2>
+
+<p align="center">
+  <img src="https://github.com/muhammetemrenumanoglu/muhammetemrenumanoglu/blob/output/github-contribution-grid-snake.svg" alt="snake game"/>
+</p>
+
+---
+
+<p align="center">
+  🚀 Learning → Building → Improving
+</p>
