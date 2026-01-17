@@ -28,14 +28,10 @@
 </p>
 
 <hr>
-
 <h2 align="center">📊 GitHub Stats</h2>
 
 
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammetemrenumanoglu&amp;theme=tokyonight" />
-</p>
+<img src="https://streak-stats.demolab.com?user=muhammetemrenumanoglu&theme=tokyonight&v=1" />
 
 <hr>
 
