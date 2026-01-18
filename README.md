@@ -27,10 +27,8 @@ Currently focused on <strong>Web Development</strong>, <strong>Backend</strong>,
 
 <h2>📊 GitHub Stats</h2>
 
-<img
-  src="https://streak-stats.demolab.com?user=muhammetemrenumanoglu&theme=tokyonight&v=1"
-  alt="GitHub Streak"
-/>
+| <img align="center" src="https://github-readme-stats-fast.vercel.app/api?username=MuhammetEmreNumanoglu&show_icons=true&theme=github_dark&locale=en&hide_border=true" alt="MuhammetEmreNumanoglu" /> | <img align="right" src="https://github-readme-stats-fast.vercel.app/api/streak?username=MuhammetEmreNumanoglu&theme=github_dark&locale=en&hide_border=true" alt="MuhammetEmreNumanoglu" /> |
+| ------------- | ------------- |
 
 <hr>
 
