@@ -17,10 +17,11 @@ Currently focused on <strong>Web Development</strong>, <strong>Backend</strong>,
 
 <h2>🛠️ Tech Stack</h2>
 
-<img src="https://skillicons.dev/icons?i=js,ts,python,java,c,cpp,react,nextjs,html,css,bootstrap,nodejs,nestjs,django,postgres,mongodb,mysql,docker,git,github" /><br />
-<img src="https://skillicons.dev/icons?i=github" />
-<br /><br />
-<img src="https://img.shields.io/badge/MSSQL-0078D4?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+<p align="center">
+  <img 
+    src="https://skillicons.dev/icons?i=js,ts,python,java,c,cpp,react,nextjs,html,css,bootstrap,nodejs,nestjs,django,postgres,mongodb,mysql,docker,git,github&perline=10" 
+  />
+</p><br /><br />
 
 <hr>
 
