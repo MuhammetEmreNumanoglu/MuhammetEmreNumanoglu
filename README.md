@@ -1,27 +1,74 @@
 <div align="center">
 
-<h1>Hi 👋, I'm Muhammet Emre Numanoğlu</h1>
-<h3>Software Engineering Student | Non-stop Learning</h3>
+<h1>Hey, I'm Muhammet Emre Numanoğlu 👋</h1>
+
+<h3>Software Engineering Student focused on building modern web applications</h3>
 
 🌐 <a href="https://emrenumanoglu.com" target="_blank">emrenumanoglu.com</a> •
 📫 <strong>muhammedemrenumanoglu155@gmail.com</strong>
 
 <hr>
 
-<h2>🧠 About Me</h2>
+<h2>About Me</h2>
 
-I am a 4th year Software Engineering student who enjoys learning new technologies, building projects, and improving skills step by step.  
-Currently focused on <strong>Web Development</strong>, <strong>Backend</strong>, and <strong>Databases</strong>.
+<p align="left">
+I am a Software Engineering student who enjoys turning ideas into real projects and learning through hands on experience.  
+Most of my time is spent improving my backend development skills, working with databases, and building fullstack applications.
+
+I enjoy creating scalable systems, exploring modern technologies, and developing projects that help me grow technically step by step.
+</p>
 
 <hr>
 
-<h2>🛠️ Tech Stack</h2>
+<h2>Tech Stack</h2>
+
+<h3>Languages</h3>
 
 <p align="center">
   <img 
-    src="https://skillicons.dev/icons?i=js,ts,python,java,c,cpp,react,nextjs,html,css,bootstrap,nodejs,nestjs,django,postgres,mongodb,mysql,docker,git,github&perline=10" 
+    src="https://skillicons.dev/icons?i=js,ts,python,java,c,cpp" 
   />
-</p><br /><br />
+</p>
+
+<h3>Frontend</h3>
+
+<p align="center">
+  <img 
+    src="https://skillicons.dev/icons?i=react,nextjs,html,css,bootstrap" 
+  />
+</p>
+
+<h3>Backend</h3>
+
+<p align="center">
+  <img 
+    src="https://skillicons.dev/icons?i=nodejs,nestjs,django" 
+  />
+</p>
+
+<h3>Databases</h3>
+
+<p align="center">
+  <img 
+    src="https://skillicons.dev/icons?i=postgres,mongodb,mysql" 
+  />
+</p>
+
+<h3>Tools</h3>
+
+<p align="center">
+  <img 
+    src="https://skillicons.dev/icons?i=docker,git,github" 
+  />
+</p>
+
+<hr>
+
+<h2>Current Interests</h2>
+
+<p align="left">
+Backend development • REST APIs • Database systems • Fullstack applications • Clean architecture • Modern web technologies
+</p>
 
 <hr>
 
@@ -32,7 +79,7 @@ Currently focused on <strong>Web Development</strong>, <strong>Backend</strong>,
 
 <hr>
 
-<h2>🎮 GitHub Contribution Game</h2>
+<h2>🎮 Contribution Graph</h2>
 
 <img
   src="https://github.com/muhammetemrenumanoglu/muhammetemrenumanoglu/blob/output/github-contribution-grid-snake.svg"
@@ -41,6 +88,8 @@ Currently focused on <strong>Web Development</strong>, <strong>Backend</strong>,
 
 <hr>
 
-🚀 Learning → Building → Improving
+<p>
+Building projects, learning from mistakes, and improving a little more every day 
+</p>
 
 </div>
