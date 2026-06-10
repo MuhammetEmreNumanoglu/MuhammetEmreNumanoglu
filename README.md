@@ -89,7 +89,7 @@ Backend development • REST APIs • Database systems • Fullstack application
 <hr>
 
 <p>
-Building projects, learning from mistakes, and improving a little more every day 
+Building projects, learning from mistakes, and improving a little more every day  
 </p>
 
 </div>
