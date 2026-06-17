@@ -4,7 +4,7 @@
 
 <h3>Software Engineering Student focused on building modern web applications</h3>
  
-🌐 <a href="https://emrenumanoglu.com" target="_blank">emrenumanoglu.com</a> •
+🌐 <a href="https://emrenumanoglu.com" target="_blank">emrenumanoglu.com</a> • 
 📫 <strong>muhammedemrenumanoglu155@gmail.com </strong>
 
 <hr>
