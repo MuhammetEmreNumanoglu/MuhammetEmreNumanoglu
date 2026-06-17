@@ -11,7 +11,7 @@
 
 <h2>About Me</h2>
 
-<p align="left">
+<p align="left"> 
 I am a Software Engineering student who enjoys turning ideas into real projects and learning through hands on experience.  
 Most of my time is spent improving my backend development skills, working with databases, and building fullstack applications.
 
