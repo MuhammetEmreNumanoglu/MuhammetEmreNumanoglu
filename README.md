@@ -26,7 +26,7 @@ I enjoy creating scalable systems, exploring modern technologies, and developing
 
 <p align="center">
   <img 
-    src="https://skillicons.dev/icons?i=js,ts,python,java,c,cpp" 
+    src="https://skillicons.dev/icons?i=js,ts,python,java,c,cpp"  
   />
 </p>
 
