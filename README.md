@@ -7,7 +7,7 @@
 🌐 <a href="https://emrenumanoglu.com" target="_blank">emrenumanoglu.com</a> • 
 📫 <strong>muhammedemrenumanoglu155@gmail.com </strong>
 
-<hr>
+<hr> 
 
 <h2>About Me</h2>
 
