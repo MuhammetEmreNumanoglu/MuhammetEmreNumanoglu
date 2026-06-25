@@ -9,7 +9,7 @@
 
 <hr> 
 
-<h2>About Me</h2>
+<h2>About Me</h2> 
 
 <p align="left"> 
 I am a Software Engineering student who enjoys turning ideas into real projects and learning through hands on experience.  
